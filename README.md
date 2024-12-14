@@ -1,2 +1,2 @@
-#Tamagotchi<br>
+# Tamagotchi<br>
 A simple Tamagochii-type game.
